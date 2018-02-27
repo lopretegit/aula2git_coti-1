@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <h2>Pagina inicial do sistema</h2>
-        <a href="cadastrar.php">Cadastrar Cliente</a>
+        <a href="cadastrar_cliente.php">Cadastrar Cliente</a>
         <br><br>
         <a href="listar.php">Listar Cliente</a>
     </body>
